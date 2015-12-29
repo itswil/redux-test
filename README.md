@@ -1,6 +1,6 @@
 # Bones + Redux
 
-A barebones boilerplate
+Test to get Redux working; WIP
 
 - BrowserSync
 - Gulp

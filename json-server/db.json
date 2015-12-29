@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Pollock Tail",
+      "description": "Served with baby leeks, gnocchi and pancetta, prosecco cream",
+      "price": "16"
+    },
+    {
+      "id": 2,
+      "name": "Lamb Canon and Breast",
+      "description": "Served with olive oil mash, kale and anchovy butter",
+      "price": "15"
+    },
+    {
+      "id": 3,
+      "name": "Pork Belly",
+      "description": "Slow-cooked, served with savoy cabbage, bacon, apple sauce, leek and potato croquettes",
+      "price": "15"
+    },
+    {
+      "id": 4,
+      "name": "Ribeye Steak",
+      "description": "Served with red wine jus, crouton and thick-cut chips",
+      "price": "21"
+    },
+    {
+      "id": 5,
+      "name": "Hake",
+      "description": "Served with ginger clams, oyster and coriander broth and fried sesame dumpling",
+      "price": "16"
+    },
+    {
+      "id": 6,
+      "name": "Grilled Venison",
+      "description": "Served with crepinette, red kale, squash and watercress puree",
+      "price": "17"
+    },
+    {
+      "id": 7,
+      "name": "Celeriac Cobbler",
+      "description": "With mushroom, blue cheese and cavolo nero",
+      "price": "12"
+    }
+  ],
+  "orders": []
+}

@@ -1,0 +1,60 @@
+.OrderMenu {
+  overflow: hidden;
+}
+
+.MenuItems {
+  @include font-lora;
+  background-color: #eee;
+  float: left;
+  padding: 20px;
+  width: 40%;
+}
+
+.MenuItems-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    overflow: hidden;
+    margin-bottom: 20px;
+    position: relative;
+  }
+
+  .MenuItem-copy {
+    float: left;
+    width: 75%;
+  }
+
+  .MenuItem-name {
+    font-size: 1.2em;
+  }
+
+  .MenuItem-price {
+    float: right;
+    margin-top: 23px;
+    padding-right: 15px;
+    text-align: right;
+    width: 25%;
+  }
+
+  .MenuItem-add {
+    background-color: #ccc;
+    border-radius: 50%;
+    bottom: 8px;
+    cursor: pointer;
+    display: block;
+    height: 40px;
+    right: 0;
+    padding-left: 16px;
+    padding-top: 10px;
+    position: absolute;
+    width: 40px;
+  }
+}
+
+.YourOrder {
+  background-color: #ddd;
+  float: left;
+  width: 60%;
+}

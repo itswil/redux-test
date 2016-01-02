@@ -1,3 +1,5 @@
+// Gets all Menu Items
+// Uses: Populate Menu List
 export function getAllItems() {
   let url = '//localhost:3333/items';
 

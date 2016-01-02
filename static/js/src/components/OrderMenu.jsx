@@ -28,7 +28,7 @@ class MenuItems extends React.Component {
                   <p className="MenuItem-description">{item.description}</p>
                 </div>
                 <p className="MenuItem-price">{item.price}</p>
-                <a className="MenuItem-add">+</a>
+                <a className="MenuItem-add" onClick="">+</a>
               </li>
             ]);
           })}
@@ -49,7 +49,10 @@ class YourOrder extends React.Component {
   render() {
     return (
       <div className="YourOrder">
+        <h2>Your Order</h2>
+        <ul className="YourOrder-list">
 
+        </ul>
       </div>
     )
   }

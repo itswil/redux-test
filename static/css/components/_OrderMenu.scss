@@ -33,7 +33,7 @@
   .MenuItem-price {
     float: right;
     margin-top: 23px;
-    padding-right: 15px;
+    padding-right: 14px;
     text-align: right;
     width: 25%;
   }
@@ -41,7 +41,6 @@
   .MenuItem-add {
     background-color: #ccc;
     border-radius: 50%;
-    bottom: 8px;
     cursor: pointer;
     display: block;
     height: 40px;
@@ -49,6 +48,7 @@
     padding-left: 16px;
     padding-top: 10px;
     position: absolute;
+    top: 56px;
     width: 40px;
   }
 }
